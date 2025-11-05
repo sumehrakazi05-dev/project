@@ -1,0 +1,4 @@
+streamlit==1.50.0
+PyMuPDF==1.25.0
+python-pptx==0.6.21
+nltk==3.8.1
